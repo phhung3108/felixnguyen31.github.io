@@ -11,9 +11,9 @@ introduction: |
   - Disqus Comments and Google Analytics support
   - SEO best practices via [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag/)
 actions:
-  - label: "Get Started"
-    icon: github
-    url: "https://github.com/mmistakes/jekyll-theme-basically-basic"
+  - label: "Connect"
+    icon: linkedin
+    url: "https://www.linkedin.com/in/phhung31/"
   - label: "Download"
     icon: download
     url: "https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip"
