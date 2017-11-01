@@ -3,7 +3,7 @@ layout: home
 sub_title: "Howdy, stranger! Welcome to my rambling blog."
 image: /assets/Kt0jUHf.jpg
 introduction: |
-  This is my personal blog where I will talk about a plethora of different stuffs --- work, tutorials, travel, sci-fi and whatnot. Conventions and features found there are fully supported by **Basically Basic**, with a few enhancements thrown in for good measure:
+  This is my personal blog where I will talk about a plethora of different stuffs --- work, tutorials, travel, book/movie reviews and whatnot. Conventions and features found there are fully supported by **Basically Basic**, with a few enhancements thrown in for good measure:
 
   - Clean responsive design with six customizable skins
   - Curriculum Vitæ/Resume layout powered by [JSON data](http://registry.jsonresume.org/)
