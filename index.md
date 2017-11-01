@@ -1,7 +1,7 @@
 ---
 layout: home
 sub_title: "Howdy, stranger! Welcome to my rambling blog."
-image: /assets/Kt0jUHf.jpg
+image: /assets/8b-fantasy-vs-sci-fi.jpg
 introduction: |
   This is my personal blog where you gonna see me talk about a plethora of random stuffs --- data, coding, travel, book/movie reviews and whatnot. Conventions and features found there are fully supported by **Basically Basic**, with a few enhancements thrown in for good measure:
 
