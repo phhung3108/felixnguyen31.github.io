@@ -3,7 +3,7 @@ layout: home
 sub_title: "Howdy, stranger! Welcome to my rambling blog."
 image: /assets/8b-fantasy-vs-sci-fi.jpg
 introduction: |
-  This is my personal blog where you gonna see me talk about a plethora of random stuffs --- data, coding, travel, book/movie reviews and whatnot. While you may find some ingenious and interesting things laying around, most of the content are **nonsensical ramblings**, so take them with a kilogram (or roughly 2.2 lbs for my American non-SI heathens) of salt.
+  This is my personal blog where I'm gonna talk about a plethora of random stuffs --- data, coding, travel, book/movie reviews and whatnot. While you may find some ingenious and interesting things laying around, most of the content are **nonsensical ramblings**, so take them with a kilogram of salt(or roughly 2.2 lbs for my American non-SI heathens).
 actions:
   - label: "Connect"
     icon: linkedin
