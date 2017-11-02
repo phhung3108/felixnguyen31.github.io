@@ -110,9 +110,13 @@
   ],
   "languages": [
     {
-      "language": "Nonsense",
+      "language": "Vietnamese",
       "fluency": "Native speaker"
-    }
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
   ],
   "interests": [
     {
@@ -125,8 +129,8 @@
   ],
   "references": [
     {
-      "name": " Nannette Nananacci",
-      "reference": "It is my pleasure to recommend Dugan Nash, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "Ha N. Ho - COO of FE Credit",
+      "reference": "It is my pleasure to recommend Felix Nguyen, his performance, ingenuity and motivation working as a Management Associate for FE CREDIT proved that he will be a valuable addition to any company."
     }
   ]
 }
