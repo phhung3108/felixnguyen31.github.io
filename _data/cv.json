@@ -91,20 +91,31 @@
   ],
   "skills": [
     {
-      "name": "Audio Juggling",
-      "level": "Master",
+      "name": "Amateur Code-monkey",
+      "level": "Propeller Head",
       "keywords": [
-        "Ointment",
-        "Voltor",
-        "Millipedes"
+        "JavaScript",
+        "Python",
+        "PHP",
+        "HTML"
       ]
     },
     {
-      "name": "Bruschotti",
+      "name": "Data Cruncher",
       "level": "Satisfactory",
       "keywords": [
-        "Snow camp",
-        "Owl"
+        "SQL",
+        "R",
+        "SPSS"
+      ]
+    },
+    {
+      "name": "Cool-sounding stuffs",
+      "level": "Satisfactory",
+      "keywords": [
+        "Agile",
+        "DevOps",
+        "UI/UX"
       ]
     }
   ],
