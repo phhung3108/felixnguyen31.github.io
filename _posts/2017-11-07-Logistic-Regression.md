@@ -1,5 +1,5 @@
 ---
-title: Logistic Regression
+title: Logistic Regression on R
 categories:
   - Post
 last_modified_at: 2017-11-07T12:45:25-05:00
@@ -530,7 +530,4 @@ This will get you up and running with logistic regression.  Keep in mind that th
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 - [Applied Predictive Modeling](http://appliedpredictivemodeling.com/)
 - [Elements of Statistical Learning](https://statweb.stanford.edu/~tibs/ElemStatLearn/)
-
-
-[^islr]: This tutorial was built as a supplement to chapter 4, section 3 of [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 
