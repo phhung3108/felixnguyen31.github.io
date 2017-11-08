@@ -1,5 +1,4 @@
 ---
-layout: tutorial
 title: Logistic Regression
 permalink: /logistic_regression
 ---
