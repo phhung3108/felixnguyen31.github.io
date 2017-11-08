@@ -1,5 +1,8 @@
 ---
 title: Logistic Regression
+categories:
+  - Post
+last_modified_at: 2017-11-07T12:45:25-05:00
 ---
 
 <img src="/public/images/analytics/logistic_regression/plot2-1.png"  style="float:right; margin: 2px 0px 0px 10px; width: 40%; height: 40%;" />
