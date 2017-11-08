@@ -1,6 +1,5 @@
 ---
 title: Logistic Regression
-permalink: /logistic_regression
 ---
 
 <img src="/public/images/analytics/logistic_regression/plot2-1.png"  style="float:right; margin: 2px 0px 0px 10px; width: 40%; height: 40%;" />
