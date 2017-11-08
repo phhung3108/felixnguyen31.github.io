@@ -77,15 +77,6 @@
       "summary": "Company-wide Creative Idea award for Messaging apps based CRM"
     }
   ],
-  "publications": [
-    {
-      "name": "Radio Julius",
-      "publisher": "Tanyo Lubbock",
-      "releaseDate": "2014-10-01",
-      "website": "https://en.rhy.es",
-      "summary": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test."
-    }
-  ],
   "skills": [
     {
       "name": "Amateur Code-monkey",
@@ -129,10 +120,18 @@
   ],
   "interests": [
     {
-      "name": "The Information Superhighway",
+      "name": "Devourer of books",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Sci-fi",
+        "Fantasy",
+        "Alternative History"
+      ]
+    },
+    {
+      "name": "Game Modder",
+      "keywords": [
+        "EU IV",
+        "Crusader Kings II"
       ]
     }
   ],
